@@ -53,7 +53,7 @@ AR-Heritage-India/
 ├── frontend/css/style.css
 ├── frontend/js/{home,monument}.js
 ├── frontend/models/ (five supplied GLB files)
-└── docs/ (project, system, install, tests, credits)
+└── docs/ (project, system, install, tests, credits) 
 ```
 
 ## Models and sources
