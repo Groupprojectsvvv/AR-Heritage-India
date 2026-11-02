@@ -1,0 +1,592 @@
+[
+ {
+  "id": "sanchi",
+  "name": "Sanchi Stupa",
+  "location": "Sanchi, Raisen district, Madhya Pradesh",
+  "period": "3rd century BCE onward",
+  "summary": "A monumental Buddhist reliquary landscape whose great hemispherical stupa grew over centuries into one of India’s most important surviving Buddhist sites.",
+  "hero": "A quiet hilltop sanctuary shaped by Buddhist memory, stone gateways and centuries of pilgrimage.",
+  "history": "Emperor Ashoka commissioned the original brick Great Stupa in the 3rd century BCE, after his conversion to Buddhism. During the Shunga period, the mound was enlarged and faced with stone; its celebrated carved gateways (toranas) were added around the 1st century BCE. Sanchi remained an active religious centre under successive dynasties, then declined as Buddhism waned in central India. British officer Henry Taylor noted the site in 1818; conservation and archaeological work followed in the 19th and 20th centuries. UNESCO inscribed the Buddhist Monuments at Sanchi in 1989.",
+  "architecture": "The Great Stupa is a solid hemispherical anda over a relic chamber, crowned by a square harmika and a triple umbrella (chattra) on a central mast. A circumambulatory terrace and balustrade encircle the mound. Four cardinal gateways carry dense narrative reliefs: early Buddhist art often represents the Buddha through symbols such as the Bodhi tree, footprints and the empty throne.",
+  "features": [
+   "Four elaborately carved toranas aligned to the cardinal directions",
+   "Anda, harmika and chattra expressing the Buddhist cosmos",
+   "Circumambulation paths for pradakshina",
+   "Jataka stories and scenes from the Buddha’s life in relief"
+  ],
+  "significance": "Sanchi demonstrates the spread of Buddhism and the evolution of Indian stone architecture. Its aniconic reliefs are an exceptional visual archive of early Buddhist belief, patronage and everyday life.",
+  "facts": [
+   "The Great Stupa is traditionally associated with relics of the Buddha.",
+   "The site contains stupas, monasteries, temples and inscriptions spanning many centuries.",
+   "The four gateways were added long after Ashoka’s original brick monument."
+  ],
+  "timeline": [
+   [
+    "3rd c. BCE",
+    "Ashoka commissions the first brick stupa and monastic complex."
+   ],
+   [
+    "2nd–1st c. BCE",
+    "The mound is enlarged; stone railings and carved gateways develop."
+   ],
+   [
+    "5th c. CE",
+    "Additional temples and structural works reflect continued patronage."
+   ],
+   [
+    "1818",
+    "The site is brought to wider colonial scholarly attention."
+   ],
+   [
+    "1989",
+    "UNESCO lists the Buddhist Monuments at Sanchi as World Heritage."
+   ]
+  ],
+  "model": "sanchi-stupa.glb",
+  "images": [
+   {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sanchi_Stupa%2C_Sanchi.jpg?width=1200",
+    "alt": "Great Stupa at Sanchi",
+    "source": "https://commons.wikimedia.org/wiki/File:Sanchi_Stupa,_Sanchi.jpg",
+    "credit": "Wikimedia Commons; see file page for author and license"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Northern_Gateway_of_the_Great_Stupa_at_Sanchi.jpg?width=1200",
+    "alt": "Carved northern gateway (torana) at Sanchi",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Northern_Gateway_of_the_Great_Stupa_at_Sanchi.jpg",
+    "credit": "Wikimedia Commons; see file page for author and license"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Eastern_Gateway_of_Stupa_1%2C_Sanchi.jpg?width=1200",
+    "alt": "Eastern gateway of Stupa 1 at Sanchi",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Eastern_Gateway_of_Stupa_1,_Sanchi.jpg",
+    "credit": "Wikimedia Commons; see file page for author and license"
+   }
+  ],
+  "narration": "Welcome to Sanchi, one of the oldest Buddhist sacred landscapes in India. Emperor Ashoka began the Great Stupa in the third century BCE. Later generations enlarged it and added four carved gateways. Walk clockwise around the mound, as pilgrims have done for centuries. Look for stories carved in stone, including scenes that represent the Buddha through symbols rather than a human figure. Sanchi is a remarkable record of faith, art and changing dynasties, and became a UNESCO World Heritage Site in 1989.",
+  "quiz": [
+   {
+    "q": "Which Mauryan emperor commissioned the original Great Stupa?",
+    "options": [
+     "Chandragupta Maurya",
+     "Ashoka",
+     "Bindusara",
+     "Dasharatha"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What is the hemispherical mound of a stupa called?",
+    "options": [
+     "Mandapa",
+     "Gopuram",
+     "Anda",
+     "Shikhara"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "How many monumental toranas stand at the Great Stupa?",
+    "options": [
+     "Two",
+     "Three",
+     "Four",
+     "Eight"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "What practice involves walking clockwise around a sacred monument?",
+    "options": [
+     "Pradakshina",
+     "Jauhar",
+     "Dargah",
+     "Yajna"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "In which year did UNESCO inscribe Sanchi?",
+    "options": [
+     "1972",
+     "1983",
+     "1989",
+     "2001"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "taj-mahal",
+  "name": "Taj Mahal",
+  "location": "Agra, Uttar Pradesh",
+  "period": "1632–1653 CE (approximately)",
+  "summary": "A white-marble Mughal mausoleum commissioned by Shah Jahan, celebrated for its balanced composition, refined inlay and garden setting.",
+  "hero": "Marble, light and symmetry meet in a Mughal garden built as an enduring imperial memorial.",
+  "history": "Mughal emperor Shah Jahan commissioned the Taj Mahal after the death of his wife Mumtaz Mahal in 1631. Construction began around 1632 and the mausoleum was substantially complete by 1648; work on the wider complex continued to about 1653. The project brought together artisans from across the Mughal empire and beyond. The complex includes the tomb, mosque, jawab (a balancing building), formal gardens, water channels and monumental entrance. It became a UNESCO World Heritage Site in 1983.",
+  "architecture": "The complex follows a charbagh garden plan on the Yamuna riverfront. The white-marble mausoleum is organized around a central domed chamber, with a bulbous double dome, four minarets, a pishtaq (deep arched portal) on each face, and fine pietra dura inlay. Calligraphy, geometric patterns and floral carving combine Persianate and Indian craft traditions.",
+  "features": [
+   "Four minarets framing the central mausoleum",
+   "Double dome above the central chamber",
+   "Pietra dura floral inlay using semi-precious stones",
+   "Charbagh garden and long reflecting water channels"
+  ],
+  "significance": "The Taj Mahal is a major achievement of Mughal architecture and a monument to imperial commemoration. Its design brings together architecture, garden planning, calligraphy and stone craftsmanship in a carefully unified ensemble.",
+  "facts": [
+   "The complex sits beside the Yamuna River in Agra.",
+   "The mosque and jawab flank the mausoleum platform.",
+   "The cenotaphs in the upper chamber are commemorative; the actual graves are in the crypt below."
+  ],
+  "timeline": [
+   [
+    "1631",
+    "Mumtaz Mahal dies; Shah Jahan commissions a mausoleum."
+   ],
+   [
+    "c. 1632",
+    "Construction begins at Agra."
+   ],
+   [
+    "1648",
+    "The main mausoleum is substantially complete."
+   ],
+   [
+    "c. 1653",
+    "Work on the wider complex is completed."
+   ],
+   [
+    "1983",
+    "The Taj Mahal is inscribed on the UNESCO World Heritage List."
+   ]
+  ],
+  "model": "taj-mahal.glb",
+  "images": [
+   {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal%2C_Agra.jpg?width=1200",
+    "alt": "Taj Mahal and its garden in Agra",
+    "source": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra.jpg",
+    "credit": "Wikimedia Commons; see file page for author and license"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_mahal_Agra_India.jpg?width=1200",
+    "alt": "Taj Mahal mausoleum in Agra",
+    "source": "https://commons.wikimedia.org/wiki/File:Taj_mahal_Agra_India.jpg",
+    "credit": "Wikimedia Commons; see file page for author and license"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal._Agra.JPG?width=1200",
+    "alt": "Taj Mahal seen from its garden",
+    "source": "https://commons.wikimedia.org/wiki/File:Taj_Mahal._Agra.JPG",
+    "credit": "Davi1974d / Wikimedia Commons, CC BY-SA 3.0"
+   }
+  ],
+  "narration": "The Taj Mahal was commissioned by Mughal emperor Shah Jahan after the death of Mumtaz Mahal in 1631. Built in Agra over the following decades, the complex combines a marble mausoleum with a mosque, a matching jawab and a formal garden. Notice the four minarets, the great double dome and the floral stone inlay called pietra dura. The cenotaphs seen in the upper chamber are memorial markers; the graves lie in the crypt below. The Taj became a UNESCO World Heritage Site in 1983.",
+  "quiz": [
+   {
+    "q": "Who commissioned the Taj Mahal?",
+    "options": [
+     "Akbar",
+     "Jahangir",
+     "Shah Jahan",
+     "Aurangzeb"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "The Taj Mahal is located in which city?",
+    "options": [
+     "Delhi",
+     "Agra",
+     "Jaipur",
+     "Lucknow"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What is the stone inlay technique called?",
+    "options": [
+     "Pietra dura",
+     "Jali",
+     "Fresco secco",
+     "Stucco"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Beside which river is the complex located?",
+    "options": [
+     "Ganges",
+     "Godavari",
+     "Yamuna",
+     "Narmada"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "In which year was it inscribed by UNESCO?",
+    "options": [
+     "1975",
+     "1983",
+     "1991",
+     "2000"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "konark",
+  "name": "Konark Sun Temple",
+  "location": "Konark, Puri district, Odisha",
+  "period": "13th century CE",
+  "summary": "A monumental Surya temple conceived as the Sun God’s stone chariot, with carved wheels, horses and richly sculpted architecture.",
+  "hero": "A temple imagined in motion: Surya’s celestial chariot rendered in the stone of coastal Odisha.",
+  "history": "King Narasimhadeva I of the Eastern Ganga dynasty built the Sun Temple at Konark in the 13th century, generally dated to around 1250 CE. Dedicated to Surya, the temple formed part of a major religious and political landscape on the Bay of Bengal coast. The main sanctuary tower collapsed over time, while the jagamohana (assembly hall) survives as the dominant structure. The Archaeological Survey of India protects the monument; UNESCO inscribed it in 1984.",
+  "architecture": "The temple was planned as Surya’s colossal chariot, drawn by seven horses and marked by twelve pairs of carved wheels. The surviving jagamohana rises over a high platform filled with sculptural bands. Kalinga architecture shapes the original complex: a deul sanctuary, jagamohana, dance hall and offering hall were arranged on an east–west axis. Surfaces carry deities, dancers, musicians, animals and scenes of courtly life.",
+  "features": [
+   "Monumental stone wheels with carved spokes and hubs",
+   "Seven-horse chariot symbolism of the Sun God",
+   "Kalinga-style platform and surviving assembly hall",
+   "Extensive sculpture depicting divine and human life"
+  ],
+  "significance": "Konark is a landmark of Eastern Ganga patronage and Odisha’s Kalinga temple architecture. The solar imagery, engineering and sculpture make the site an outstanding record of medieval Indian religious art.",
+  "facts": [
+   "The temple is dedicated to Surya, the Hindu Sun God.",
+   "Its design evokes a chariot with 24 wheels and seven horses.",
+   "The surviving structure is chiefly the jagamohana; the principal sanctuary tower is lost."
+  ],
+  "timeline": [
+   [
+    "c. 1250 CE",
+    "Narasimhadeva I commissions the Sun Temple."
+   ],
+   [
+    "13th c. CE",
+    "The complex serves as a major Surya shrine and royal monument."
+   ],
+   [
+    "Later centuries",
+    "The main sanctuary tower collapses; the assembly hall remains."
+   ],
+   [
+    "1900s",
+    "Conservation works stabilize the surviving monument."
+   ],
+   [
+    "1984",
+    "UNESCO inscribes the Sun Temple at Konark."
+   ]
+  ],
+  "model": "konark-sun-temple.glb",
+  "images": [
+   {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Konark_Sun_temple.jpg?width=1200",
+    "alt": "Konark Sun Temple",
+    "source": "https://commons.wikimedia.org/wiki/File:Konark_Sun_temple.jpg",
+    "credit": "Wikimedia Commons; see file page for author and license"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wheel_of_Konark_temple.jpg?width=1200",
+    "alt": "Carved stone wheel at Konark",
+    "source": "https://commons.wikimedia.org/wiki/File:Wheel_of_Konark_temple.jpg",
+    "credit": "Wikimedia Commons; see file page for author and license"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Konark_Sun_Temple_-_Great_Wheel_of_Konark.jpg?width=1200",
+    "alt": "The Great Wheel of Konark",
+    "source": "https://commons.wikimedia.org/wiki/File:Konark_Sun_Temple_-_Great_Wheel_of_Konark.jpg",
+    "credit": "Wikimedia Commons; see file page for author and license"
+   }
+  ],
+  "narration": "Konark’s Sun Temple was built in the thirteenth century under Eastern Ganga king Narasimhadeva the First. The design turns the temple into Surya’s stone chariot, drawn by seven horses and marked by twenty-four wheels. Look closely at the wheel carvings and the sculptural bands across the platform. The main sanctuary tower no longer survives, but the great assembly hall remains. Konark is a landmark of Odisha’s Kalinga architecture and was inscribed by UNESCO in 1984.",
+  "quiz": [
+   {
+    "q": "Which deity is worshipped at the Konark Sun Temple?",
+    "options": [
+     "Shiva",
+     "Surya",
+     "Vishnu",
+     "Ganesha"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which dynasty’s king commissioned the temple?",
+    "options": [
+     "Chola",
+     "Pallava",
+     "Eastern Ganga",
+     "Gupta"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "How many wheels are represented on the chariot temple?",
+    "options": [
+     "12",
+     "16",
+     "24",
+     "32"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "What is the surviving great assembly hall called?",
+    "options": [
+     "Jagamohana",
+     "Garbha griha",
+     "Mandapa of victory",
+     "Rang mahal"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "When did UNESCO inscribe Konark?",
+    "options": [
+     "1978",
+     "1984",
+     "1990",
+     "2005"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "hampi",
+  "name": "Hampi Stone Chariot",
+  "location": "Vittala Temple complex, Hampi, Karnataka",
+  "period": "16th century CE (Vijayanagara period)",
+  "summary": "The celebrated stone chariot shrine in Hampi’s Vittala Temple complex, an emblem of Vijayanagara artistry and sacred design.",
+  "hero": "An intricately carved granite shrine that turns divine procession into a lasting architectural icon.",
+  "history": "The Stone Chariot stands within the Vitthala (Vittala) Temple complex at Hampi, capital of the Vijayanagara Empire. The complex developed over time, with major royal patronage in the 15th and 16th centuries, particularly under rulers including Krishnadevaraya. The chariot is a compact shrine associated with Garuda, Vishnu’s vehicle, and is often linked with the worship of Vitthala. After the Battle of Talikota in 1565, Hampi was sacked and its political centrality ended, though the ruins remained a place of memory and worship. The Group of Monuments at Hampi became UNESCO World Heritage in 1986.",
+  "architecture": "Carved in granite, the chariot is a shrine set on a sculpted base, with wheels, horses (now replaced by elephants at the front) and detailed reliefs. It borrows the form of a ceremonial temple car in permanent stone. The surrounding Vitthala complex is known for its large pillared halls and the famed musical pillars of the Ranga Mantapa.",
+  "features": [
+   "Granite shrine carved as a ceremonial chariot",
+   "Stone wheels and sculpted animal figures",
+   "Set within the expansive Vitthala Temple complex",
+   "Nearby Ranga Mantapa with elaborately carved pillars"
+  ],
+  "significance": "The Stone Chariot embodies the artistic ambition and religious culture of Vijayanagara. It is one of Hampi’s most recognizable monuments and part of a broader urban landscape of temples, bazaars, waterworks and royal structures.",
+  "facts": [
+   "The monument is a shrine, rather than a vehicle designed to move.",
+   "It is associated with Garuda, the mount of Vishnu.",
+   "Hampi’s UNESCO listing covers a wide archaeological landscape, not only the chariot."
+  ],
+  "timeline": [
+   [
+    "14th c. CE",
+    "Vijayanagara establishes Hampi as its capital."
+   ],
+   [
+    "15th–16th c. CE",
+    "The Vitthala Temple complex expands under royal patronage."
+   ],
+   [
+    "c. 1509–1529",
+    "Krishnadevaraya rules during a major era of imperial building."
+   ],
+   [
+    "1565",
+    "The Battle of Talikota is followed by the sack of Hampi."
+   ],
+   [
+    "1986",
+    "The Group of Monuments at Hampi is inscribed by UNESCO."
+   ]
+  ],
+  "model": "hampi-stone-chariot.glb",
+  "images": [
+   {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hampi_chariot.jpg?width=1200",
+    "alt": "Stone Chariot at Vittala Temple, Hampi",
+    "source": "https://commons.wikimedia.org/wiki/File:Hampi_chariot.jpg",
+    "credit": "Wikimedia Commons; see file page for author and license"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stone_Chariot_at_Vittala_Temple_Complex%2C_Hampi.jpg?width=1200",
+    "alt": "Stone Chariot shrine at Hampi",
+    "source": "https://commons.wikimedia.org/wiki/File:Stone_Chariot_at_Vittala_Temple_Complex,_Hampi.jpg",
+    "credit": "Wikimedia Commons; see file page for author and license"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stone_Chariot_of_Vitthala_Temple%2C_Hampi.jpg?width=1200",
+    "alt": "Stone Chariot in the Vitthala Temple complex",
+    "source": "https://commons.wikimedia.org/wiki/File:Stone_Chariot_of_Vitthala_Temple,_Hampi.jpg",
+    "credit": "Wikimedia Commons; see file page for author and license"
+   }
+  ],
+  "narration": "This stone chariot stands in the Vitthala Temple complex at Hampi, the former capital of the Vijayanagara Empire. It is a shrine associated with Garuda, the vehicle of Vishnu, and was carved in granite to resemble a ceremonial temple car. Its wheels and animal figures are architectural sculpture: the chariot was not meant to travel. Explore the broader complex too, including its pillared halls. Hampi’s monuments became a UNESCO World Heritage Site in 1986.",
+  "quiz": [
+   {
+    "q": "The Stone Chariot is located within which temple complex?",
+    "options": [
+     "Virupaksha",
+     "Vitthala",
+     "Meenakshi",
+     "Brihadisvara"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "The chariot shrine is associated with which figure?",
+    "options": [
+     "Nandi",
+     "Garuda",
+     "Hanuman",
+     "Airavata"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which empire made Hampi its capital?",
+    "options": [
+     "Mauryan",
+     "Vijayanagara",
+     "Mughal",
+     "Pala"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "In what year was Hampi inscribed by UNESCO?",
+    "options": [
+     "1972",
+     "1984",
+     "1986",
+     "1999"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "What is the chariot primarily made from?",
+    "options": [
+     "Marble",
+     "Granite",
+     "Laterite",
+     "Sandstone"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "qutub-minar",
+  "name": "Qutub Minar",
+  "location": "Mehrauli, Delhi",
+  "period": "Construction began in 1199 CE; additions continued into the 14th century",
+  "summary": "A soaring, fluted minaret at the heart of Delhi’s earliest Sultanate-era monumental complex, built in red sandstone and marble.",
+  "hero": "A monumental tower inscribed with the layered histories of Delhi’s early Sultanate period.",
+  "history": "Qutb al-Din Aibak began the Qutub Minar around 1199, after establishing the Delhi Sultanate; his successor Iltutmish completed additional storeys. The tower was repaired and altered after damage by lightning and earthquakes, notably by Firuz Shah Tughluq in the 14th century. Later restorations added further interventions. The surrounding Qutb complex includes the Quwwat-ul-Islam Mosque, the Iron Pillar and other Sultanate-era monuments. UNESCO inscribed the Qutb Minar and its Monuments in 1993.",
+  "architecture": "The tapering tower rises about 72.5 metres and has five storeys separated by projecting balconies. Its lower levels use alternating angular and rounded fluting; upper levels vary in profile. Red sandstone dominates, with marble used in higher sections and repairs. Bands of Arabic inscriptions and geometric decoration wrap the shafts. The tower’s form reflects Islamic minaret traditions expressed through local materials and craftsmanship.",
+  "features": [
+   "Five storeys with projecting balconies",
+   "Alternating angular and rounded fluting on the lower shafts",
+   "Red sandstone with marble in upper portions",
+   "Arabic inscriptions and ornamented bands"
+  ],
+  "significance": "The Qutub complex documents the establishment and development of the Delhi Sultanate and the interaction of architectural traditions in North India. The tower remains a defining landmark in Delhi’s long urban history.",
+  "facts": [
+   "The minar stands approximately 72.5 metres tall.",
+   "Construction began under Qutb al-Din Aibak and continued under Iltutmish.",
+   "The nearby Iron Pillar predates the Sultanate complex by many centuries."
+  ],
+  "timeline": [
+   [
+    "1199",
+    "Qutb al-Din Aibak begins construction of the minar."
+   ],
+   [
+    "Early 13th c.",
+    "Iltutmish completes additional storeys and develops the complex."
+   ],
+   [
+    "14th c.",
+    "Firuz Shah Tughluq repairs the tower after damage."
+   ],
+   [
+    "19th c.",
+    "Major restoration work is undertaken during British rule."
+   ],
+   [
+    "1993",
+    "UNESCO lists Qutb Minar and its Monuments."
+   ]
+  ],
+  "model": "qutub-minar.glb",
+  "images": [
+   {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/QutubMInar.jpg?width=1200",
+    "alt": "Qutub Minar tower in Delhi",
+    "source": "https://commons.wikimedia.org/wiki/File:QutubMInar.jpg",
+    "credit": "Wikimedia Commons; see file page for author and license"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Qtb_Minar.jpg?width=1200",
+    "alt": "Fluted shaft and inscriptions of Qutub Minar",
+    "source": "https://commons.wikimedia.org/wiki/File:Qtb_Minar.jpg",
+    "credit": "Wikimedia Commons; see file page for author and license"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Qutub_Minaar_in_delhi.jpg?width=1200",
+    "alt": "Qutub Minar and surrounding complex",
+    "source": "https://commons.wikimedia.org/wiki/File:Qutub_Minaar_in_delhi.jpg",
+    "credit": "Wikimedia Commons; see file page for author and license"
+   }
+  ],
+  "narration": "Qutub Minar rises above the Qutb complex in Mehrauli, Delhi. Construction began in 1199 under Qutb al-Din Aibak, and his successor Iltutmish added further storeys. The tower’s five levels are divided by projecting balconies, while its lower shaft alternates angular and rounded fluting. Look for the inscription bands carved around the red sandstone and marble surfaces. Nearby monuments, including the Quwwat-ul-Islam Mosque and the much older Iron Pillar, add further layers to this historic site. UNESCO listed the complex in 1993.",
+  "quiz": [
+   {
+    "q": "Who began construction of Qutub Minar?",
+    "options": [
+     "Alauddin Khalji",
+     "Qutb al-Din Aibak",
+     "Iltutmish",
+     "Firuz Shah Tughluq"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "How many storeys does the tower have?",
+    "options": [
+     "Three",
+     "Four",
+     "Five",
+     "Seven"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Approximately how tall is Qutub Minar?",
+    "options": [
+     "52.5 m",
+     "62.5 m",
+     "72.5 m",
+     "82.5 m"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Which nearby object predates the Sultanate complex?",
+    "options": [
+     "Iron Pillar",
+     "Ashoka Chakra",
+     "Lion Capital",
+     "Sanchi Torana"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "When was the Qutb complex inscribed by UNESCO?",
+    "options": [
+     "1983",
+     "1986",
+     "1993",
+     "2000"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+]
